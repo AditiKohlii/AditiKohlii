@@ -2,6 +2,7 @@
 <h3 align="center">Student at Thapar Institute of Engineering and Technology</h3>
 
 
+
 - 🔭 I’m currently working on **Machine Learning**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
